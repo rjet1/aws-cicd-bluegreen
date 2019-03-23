@@ -174,7 +174,7 @@ user:~/environment/BlueGreenEnvironment/ $ aws cloudformation create-stack --sta
      **_Deployment settings_**
 
      * **Choose whether traffic reroutes to the replacement environment immediately or waits for you to start the rerouting process manually:** Reroute traffic immediately  
-     * **Choose whether instances in the original environment are terminated after the deployment is succeeds, and how long to wait before termination:** Terminate the original      instances in the deployment group: 5 Minutes  
+     * **Choose whether instances in the original environment are terminated after the deployment is succeeds, and how long to wait before termination:** Terminate the original      instances in the deployment group: 0 Minutes  
      * **Deployment configuration:** CodeDeployDefault.AllAtOnce  
 
      **_Load balancer_**
