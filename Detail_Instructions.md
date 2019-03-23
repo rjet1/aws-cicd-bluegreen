@@ -123,7 +123,7 @@ user:~/environment/BlueGreenEnvironment/ $ aws cloudformation create-stack --sta
      * **Environment image:** Managed image  
      * **Operating system:** Ubuntu  
      * **Runtime:** Node.js  
-     * **Runtime version:** aws/codebuild/nodejs:10.1.0  
+     * **Runtime version:** aws/codebuild/nodejs:10.14.1
      * **Image version:** Always use the latest image for this runtime version  
      * **Service role:** New service role  
      * **Role name:** codebuild-BlueGreenWebAppBuild-service-role  (Automatically filled)  
