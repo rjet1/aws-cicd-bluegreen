@@ -266,7 +266,7 @@ You are going to configure a CodePipleline to use CodeBuild and CodeDeploy previ
 
 ```console
 user:~/environment/BlueGreenEnvironment/ $ git add .
-user:~/environment/BlueGreenEnvironment/ $ git commit -m "Changes from re:invent"
+user:~/environment/BlueGreenEnvironment/ $ git commit -m "Changes from Immersion day"
 user:~/environment/BlueGreenEnvironment/ $ git push
 ```
 
